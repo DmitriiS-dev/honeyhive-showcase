@@ -1,6 +1,9 @@
 # 🍯 HoneyHive Showcase  
 A sweet little e-commerce platform connecting local UK beekeepers with honey-loving customers.
 
+> 🚧 **MVP Notice:** This project is currently in its Minimum Viable Product stage.  
+> Some features like payments and production deployment are still in progress.
+
 🌐 **Live Demo:** _Coming soon!_
 
 ---
@@ -23,8 +26,7 @@ https://github.com/user-attachments/assets/fad60aa6-b52a-490c-847d-3a263ba24639
 
 ## 📝 What’s This All About?
 
-HoneyHive is a full-stack e-commerce app for premium, locally sourced honey.  
-Think Amazon, but for bees — and way more charming.
+HoneyHive is a full-stack e-commerce app for premium, locally sourced honey.
 
 Built for UK users, it includes things like real-time product reservations (so no one steals your honey mid-checkout), UK-specific shipping checks, and a clean, multi-step checkout.
 

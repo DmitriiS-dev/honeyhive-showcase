@@ -3,8 +3,9 @@ A sweet little e-commerce platform connecting local UK beekeepers with honey-lov
 
 > 🚧 **MVP Notice:** This project is currently in its Minimum Viable Product stage.  
 > Some features like payments and production deployment are still in progress.
->
-> > 🔒 **Note:** This README doesn’t include in-depth code examples intentionally.  
+
+
+> 🔒 **Note:** This README doesn’t include in-depth code examples intentionally.  
 > Since this project is intended for production, I thought it’s best practice to avoid exposing implementation details publicly at this stage.
 
 🌐 **Live Demo:** _Coming soon!_

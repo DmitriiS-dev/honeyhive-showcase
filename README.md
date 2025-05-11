@@ -9,9 +9,9 @@ A sweet little e-commerce platform connecting local UK beekeepers with honey-lov
 
 > Because it’s not real until you’ve got a UI...
  
-![Product Page] <img width="929" alt="product-page-demo" src="https://github.com/user-attachments/assets/ab1eb564-28be-4482-8701-ccd5034f316e" />
-![Cart Page] <img width="580" alt="cart-page-demo" src="https://github.com/user-attachments/assets/0865936c-b25c-4704-b6fa-2c12ab744a12" />
-![Checkout Page] <img width="568" alt="checkoutpage-demo" src="https://github.com/user-attachments/assets/b092b056-2799-4d00-81d5-7a631a93e3af" />
+<img width="929" alt="product-page-demo" src="https://github.com/user-attachments/assets/ab1eb564-28be-4482-8701-ccd5034f316e" />
+<img width="580" alt="cart-page-demo" src="https://github.com/user-attachments/assets/0865936c-b25c-4704-b6fa-2c12ab744a12" />
+<img width="568" alt="checkoutpage-demo" src="https://github.com/user-attachments/assets/b092b056-2799-4d00-81d5-7a631a93e3af" />
 
 
 

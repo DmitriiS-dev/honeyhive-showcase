@@ -1,14 +1,13 @@
 # 🍯 HoneyHive Showcase  
 A sweet little e-commerce platform connecting local UK beekeepers with honey-loving customers.
 
-> 🚧 **MVP Notice:** This project is currently in its Minimum Viable Product stage.  
-> Some features like payments and production deployment are still in progress.
+> 🚧 **MVP Notice:** This project is currently in its Minimum Viable Product stage. 
 
 
 > 🔒 **Note:** This README doesn’t include in-depth code examples intentionally.  
 > Since this project is intended for production, I thought it’s best practice to avoid exposing implementation details publicly at this stage.
 
-🌐 **Live Demo:** _Coming soon!_
+🌐 **Live Demo:** https://musical-marzipan-4eeb94.netlify.app/
 
 ---
 
@@ -41,7 +40,8 @@ Built for UK users, it includes things like real-time product reservations (so n
 - **Frontend:** React, TypeScript  
 - **Backend:** Spring Boot (Java), MySQL  
 - **Testing:** Playwright (E2E), JUnit (backend)  
-- **DevOps:** GitLab CI/CD and Kubernetes (soon)
+- **DevOps:** GitLab CI/CD
+- **Deployment:** Docker (backend)
 
 ---
 
